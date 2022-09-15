@@ -1,0 +1,30 @@
+table{
+    background-color: purple;
+}
+tr{
+    color: white;
+}
+th{
+    color: white;
+}
+.index{
+    background-color: blue;
+}
+h1{
+    color: white; text-align: center; font-size: 48px;
+} 
+.page1{
+    background-color: brown;
+}
+.page2{
+    background-color: blueviolet;
+}
+.page3{
+    background-color: aqua;
+}
+.page4{
+    background-color: red;
+}
+.page5{
+    background-color: darkgoldenrod;
+}
